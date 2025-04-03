@@ -18,6 +18,6 @@ Aplicar o método de Monte Carlo para estimar o valor de π por meio de experime
 3. É verificado quantos pontos caem **dentro da circunferência**.
 4. A razão entre os pontos dentro e o total de pontos é usada para estimar π com a fórmula:
 
-   ```text
+    ```text
     π ≈ 4 * (pontos dentro do círculo / total de pontos)
-   ```
+    ```
